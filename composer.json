@@ -1,0 +1,6 @@
+{
+    "require": {
+        "spipu/html2pdf": "^5.2",
+        "monolog/monolog": "^2.8"
+    }
+}
